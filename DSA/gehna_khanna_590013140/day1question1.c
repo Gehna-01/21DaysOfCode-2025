@@ -2,8 +2,6 @@
 int main()
 {
     int n;
-    int x=0;
-    int c;
     printf("enter array size\n");
     scanf("%d",&n);
     int arr[n];
